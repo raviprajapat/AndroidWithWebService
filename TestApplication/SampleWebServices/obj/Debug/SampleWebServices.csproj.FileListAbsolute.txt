@@ -1,4 +1,0 @@
-D:\Important File\Development\TestApplication\SampleWebServices\bin\SampleWebServices.dll
-D:\Important File\Development\TestApplication\SampleWebServices\bin\SampleWebServices.pdb
-D:\Important File\Development\TestApplication\SampleWebServices\obj\Debug\SampleWebServices.dll
-D:\Important File\Development\TestApplication\SampleWebServices\obj\Debug\SampleWebServices.pdb
